@@ -1,7 +1,3 @@
-class Triangle
-  # write code here
-  
-  
 
 require 'pry'
 class Triangle
